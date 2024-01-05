@@ -3,7 +3,11 @@
 # [John Michael Rono](https://jayem-11.github.io/johnmichaelrono.github.io/)
 
 
-<h1 align="center"> ML engineer 🤓 </h1>
+<a href="https://github.com/sonylomo/github-readme-stats">
+  <img align="center" src="https://media.giphy.com/media/5gWNXAgKfWeMCm3pFK/giphy.gif" alt="Jm's github" />
+</a>
+
+## ML engineer 🤓 
 
 ## I solve problems using data and algorithms 👨🏽‍💻
 
