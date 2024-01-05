@@ -14,4 +14,6 @@
 - 📝 I write articles [Medium](https://medium.com/@johnmichaelrono/about)
 
 - ⚡ Fun fact **I think I am funny (not really)**
+  
+- 🕸️ Chekout my [website](https://jayem-11.github.io/johnmichaelrono.github.io/)
 
