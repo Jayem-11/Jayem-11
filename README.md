@@ -11,7 +11,7 @@
 
 ## I solve problems using data and algorithms 👨🏽‍💻
 
-- 📝 I regularly write articles [Medium](https://medium.com/@johnmichaelrono/about)
+- 📝 I write articles [Medium](https://medium.com/@johnmichaelrono/about)
 
 - ⚡ Fun fact **I think I am funny (not really)**
 
