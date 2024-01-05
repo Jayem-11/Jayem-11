@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-# [John Michael Rono](https://jayem-11.github.io/johnmichaelrono.github.io/) : ML engineer 🤓
+# [John Michael Rono](https://jayem-11.github.io/johnmichaelrono.github.io/)
 
 
+<h1 align="center"> ML engineer 🤓 </h1>
 
 ## I solve problems using data and algorithms 👨🏽‍💻
 
